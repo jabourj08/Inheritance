@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.exe
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.deps.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.runtimeconfig.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.dll
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\bin\Debug\netcoreapp3.1\AbstractAnimal.pdb
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.AssemblyInfo.cs
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.dll
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.pdb
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\AbstractAnimal\obj\Debug\netcoreapp3.1\AbstractAnimal.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.exe
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.deps.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.runtimeconfig.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.dll
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.pdb
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.AssemblyInfo.cs
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.dll
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.pdb
+C:\Users\Josh\source\repos\CLASS_GITHUB\CSharp_July2020\Day 12 - Abstract Classes and Interfaces\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.genruntimeconfig.cache
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.exe
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.deps.json
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.runtimeconfig.json
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.dll
+C:\Users\Josh\source\repos\Inheritance\Media\bin\Debug\netcoreapp3.1\MediaExample.pdb
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.AssemblyInfo.cs
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.dll
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.pdb
+C:\Users\Josh\source\repos\Inheritance\Media\obj\Debug\netcoreapp3.1\MediaExample.genruntimeconfig.cache
